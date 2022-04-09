@@ -41,7 +41,6 @@ certified from Google in Android & from microsoft and IBM in python.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 😂Random Dev Meme
+### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 <a href="https://app.daily.dev/stormlight"><img src="https://api.daily.dev/devcards/301e189632e5414d88a0b1994eb12c1f.png?r=8tq" width="400" alt="zaid kamil's Dev Card"/></a>
