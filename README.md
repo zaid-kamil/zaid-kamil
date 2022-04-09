@@ -8,6 +8,9 @@ certified from Google in Android & from microsoft and IBM in python.
 
 ## 🏓 - Video games and Books from Brandon Sanderson and TV shows
 
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaid-kamil-94211a40/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/c/XaidKamil) 
+
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -22,6 +25,8 @@ certified from Google in Android & from microsoft and IBM in python.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaid-kamil&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=zaid-kamil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-kamil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
 [![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰You can help me by Donating
@@ -31,10 +36,8 @@ certified from Google in Android & from microsoft and IBM in python.
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
 ---
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaid-kamil-94211a40/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/c/XaidKamil) 
 
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
