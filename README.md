@@ -1,10 +1,12 @@
 
 # 💫About Me :
-- I am currently working on **AI and Data Science** with the powers of Python in Data Science
-- Also i am proficient in Android App development with Java😡/Kotlin🧡 
-- Certified from Google in Android & from microsoft and IBM in python.
-- 💼 Professional Coding Trainer at [Digipodium](https://digipodium.com)
-- 🏓 Video games and Books from Brandon Sanderson and TV shows
+Hi, I'm Zaid Kamil, and I'm a skilled professional with a passion for technology. I have a strong background in AI, Data Science, and Android app development, and I'm certified by Google in Android and by Microsoft and IBM in Python. Currently, I'm working as a professional coding trainer at Digipodium.
+
+My expertise in AI and Data Science is powered by my proficiency in Python programming, machine learning, data analysis, and data visualization. I enjoy designing and implementing machine learning models to analyze data and improve business operations. I also develop and optimize algorithms for data processing and analysis. Collaborating with cross-functional teams to design and deploy AI solutions is one of the things I find the most rewarding about my work.
+
+I'm also proficient in Android app development with Java and Kotlin. I've developed high-quality Android applications and designed and implemented user interfaces using Android Studio. I've also integrated third-party libraries and APIs into Android applications. My solid understanding of agile development methodologies is essential for my success as an app developer.
+
+In my free time, I enjoy playing video games and reading books from Brandon Sanderson. I'm also an avid watcher of TV shows and love staying up-to-date with the latest technology trends. As a professional coding trainer, I'm dedicated to sharing my knowledge and expertise with others and helping them achieve their career goals in the technology industry.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerngamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xaid_kamil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-kamil-94211a40) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaid-kamil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/XaidKamil)
