@@ -8,6 +8,9 @@ I'm also proficient in Android app development with Java and Kotlin. I've develo
 
 In my free time, I enjoy playing video games and reading books from Brandon Sanderson. I'm also an avid watcher of TV shows and love staying up-to-date with the latest technology trends. As a professional coding trainer, I'm dedicated to sharing my knowledge and expertise with others and helping them achieve their career goals in the technology industry.
 
+## Bento
+https://bento.me/zaid-kamil
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerngamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xaid_kamil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-kamil-94211a40) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaid-kamil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/XaidKamil)
 
@@ -39,6 +42,5 @@ In my free time, I enjoy playing video games and reading books from Brandon Sand
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 <a href="https://app.daily.dev/stormlight"><img src="https://api.daily.dev/devcards/301e189632e5414d88a0b1994eb12c1f.png?r=8tq" width="300" alt="zaid kamil's Dev Card"/></a>
