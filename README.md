@@ -30,9 +30,6 @@ https://bento.me/zaid-kamil
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaid-kamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=8&color=1)](https://visitcount.itsvg.in)
 
 ## 💰You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/stormlightx) 
