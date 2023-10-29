@@ -27,6 +27,9 @@ https://bento.me/zaid-kamil
 ---
 [![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zaid-kamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=8&color=1)](https://visitcount.itsvg.in)
@@ -40,7 +43,7 @@ https://bento.me/zaid-kamil
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 <a href="https://app.daily.dev/stormlight"><img src="https://api.daily.dev/devcards/301e189632e5414d88a0b1994eb12c1f.png?r=8tq" width="300" alt="zaid kamil's Dev Card"/></a>
