@@ -24,23 +24,13 @@ https://bento.me/zaid-kamil
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaid-kamil&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-kamil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zaid-kamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ## 💰You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/stormlightx) 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=0&color=0)](https://visitcount.itsvg.in)
+---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
 ---
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
-<a href="https://app.daily.dev/stormlight"><img src="https://api.daily.dev/devcards/301e189632e5414d88a0b1994eb12c1f.png?r=8tq" width="300" alt="zaid kamil's Dev Card"/></a>
