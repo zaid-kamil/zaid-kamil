@@ -48,7 +48,7 @@ In my free time, I enjoy playing video games and reading books from Brandon Sand
 
 ## 🧑‍💻 My activity
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@zaidkamil/48a528c7-e6a7-48e2-a568-bb91ab49153f.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zaidkamil/cb4f3c0a-e64d-4a20-bc03-7d8cab8d4eb8.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zaidkamil/42daebb9-b89b-40d8-ae73-836819dea7a2.png" /></a>
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaid-kamil&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
