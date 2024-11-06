@@ -7,7 +7,7 @@
 </div>
 
 <div align="justify">
-Hi, I'm Zaid Kamil, and I'm a skilled professional with a passion for technology. I have a strong background in AI, Data Science, and Android app development, and I'm certified by Google in Android and by Microsoft and IBM in Python. Currently, I'm working as a professional coding trainer at Digipodium.
+Hi, I'm Zaid Kamil, and I'm a skilled professional with a passion for technology. I have a strong background in AI, Data Science, and Android app development, and I'm certified by Google in Android and by Microsoft and IBM in Python. 
 
 My expertise in AI and Data Science is powered by my proficiency in Python programming, machine learning, data analysis, and data visualization. I enjoy designing and implementing machine learning models to analyze data and improve business operations. I also develop and optimize algorithms for data processing and analysis. Collaborating with cross-functional teams to design and deploy AI solutions is one of the things I find the most rewarding about my work.
 
