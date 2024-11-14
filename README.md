@@ -1,5 +1,6 @@
+
 <div align="center">
- 
+
 # 🎭 The Many Faces of Zaid Kamil
 #### *"Jack of all trades, master of... well, quite a few actually!"*
 
