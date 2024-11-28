@@ -1,6 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/bd7c73e9-2fa6-4410-9cb0-df01827235a4" width="100%"/>
 <div align="center">
+
 #### *"Jack of all trades, master of... well, quite a few actually!"*
 
 </div>
